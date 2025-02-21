@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\.git\\study3\\",
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\study3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB23AB1F-F24D-4EBE-A2CC-ECF04511F35F}|study3\\study3.csproj|c:\\likelion\\likelion\\.git\\study3\\study3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB23AB1F-F24D-4EBE-A2CC-ECF04511F35F}|study3\\study3.csproj|solutionrelative:study3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LikeLion\\LikeLion\\study3\\study3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:study3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\.git\\study3\\study3\\Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study3\\study3\\Program.cs",
               "RelativeDocumentMoniker": "study3\\Program.cs",
-              "ToolTip": "C:\\LikeLion\\LikeLion\\.git\\study3\\study3\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study3\\study3\\Program.cs",
               "RelativeToolTip": "study3\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T01:28:04.856Z",
               "EditorCaption": ""
