@@ -46,7 +46,7 @@ namespace Study4
 
             //
 
-            int a = 16755, b = 78103, c = 36, d = 1017, e = 41, f = 611, g = 22, h = 39;
+            /*int a = 16755, b = 78103, c = 36, d = 1017, e = 41, f = 611, g = 22, h = 39;
 
             Console.WriteLine("공격력 = "+a);
             Console.WriteLine("최대 생명력 = "+b);
@@ -56,7 +56,17 @@ namespace Study4
             Console.WriteLine("제압 = "+e);
             Console.WriteLine("신속 = "+f);
             Console.WriteLine("인내 = "+g);
-            Console.WriteLine("숙련 = "+h);
+            Console.WriteLine("숙련 = "+h);*/
+
+            //숫자 데이터 형식: 정수와 실수를 다룰 때 사용하는 다양한 타입
+            int integerNum = 10;    //정수 데이터
+            float floatNum = 3.14f; //단정밀도 실수
+            double doubleNum = 3.14159; //배정밀도 실수
+
+            Console.WriteLine(integerNum);
+            Console.WriteLine(floatNum);
+            Console.WriteLine(doubleNum);
+
 
 
 
