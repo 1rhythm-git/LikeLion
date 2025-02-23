@@ -12,7 +12,7 @@ namespace test2
         static void Main(string[] args)
         {
 
-            /*Console.Write("시작하려면 엔터를 누르세요!");
+            Console.Write("시작하려면 엔터를 누르세요!");
             Console.ReadLine();
             Console.Clear();
 
@@ -49,12 +49,12 @@ namespace test2
             Console.WriteLine("●●●●●●●●●●");
             Thread.Sleep(500);
             Console.Clear();
-            
-
-            Console.WriteLine("성공");*/
 
 
-            int a;
+            Console.WriteLine("성공");
+
+
+            /*int a;
             float b = 0.0f;
 
             Console.Write("a를 입력하세요: ");
@@ -65,7 +65,7 @@ namespace test2
 
 
             Console.WriteLine($"a: {a}");
-            Console.WriteLine($"b: {b}%");
+            Console.WriteLine($"b: {b}%");*/
 
         }
     }
