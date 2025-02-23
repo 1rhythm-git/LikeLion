@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\test2\\test2\\Program.cs",
               "RelativeDocumentMoniker": "test2\\Program.cs",
-              "ToolTip": "C:\\LikeLion\\LikeLion\\test2\\test2\\Program.cs*",
-              "RelativeToolTip": "test2\\Program.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\test2\\test2\\Program.cs",
+              "RelativeToolTip": "test2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T14:51:10.437Z",
               "EditorCaption": ""
