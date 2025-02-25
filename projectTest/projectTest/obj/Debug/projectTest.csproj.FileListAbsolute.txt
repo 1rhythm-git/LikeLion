@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\projectTest\projectTest\obj\Debug\projectTest.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\projectTest\projectTest\obj\Debug\projectTest.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\projectTest\projectTest\bin\Debug\projectTest.exe.config
+C:\LikeLion\LikeLion\projectTest\projectTest\bin\Debug\projectTest.exe
+C:\LikeLion\LikeLion\projectTest\projectTest\bin\Debug\projectTest.pdb
+C:\LikeLion\LikeLion\projectTest\projectTest\obj\Debug\projectTest.exe
+C:\LikeLion\LikeLion\projectTest\projectTest\obj\Debug\projectTest.pdb
