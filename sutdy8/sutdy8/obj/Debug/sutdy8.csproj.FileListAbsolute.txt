@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\sutdy8\sutdy8\bin\Debug\sutdy8.exe.config
+C:\LikeLion\LikeLion\sutdy8\sutdy8\bin\Debug\sutdy8.exe
+C:\LikeLion\LikeLion\sutdy8\sutdy8\bin\Debug\sutdy8.pdb
+C:\LikeLion\LikeLion\sutdy8\sutdy8\obj\Debug\sutdy8.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\sutdy8\sutdy8\obj\Debug\sutdy8.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\sutdy8\sutdy8\obj\Debug\sutdy8.exe
+C:\LikeLion\LikeLion\sutdy8\sutdy8\obj\Debug\sutdy8.pdb
