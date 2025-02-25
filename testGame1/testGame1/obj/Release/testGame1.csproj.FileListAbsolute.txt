@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\testGame1\testGame1\bin\Release\testGame1.exe.config
+C:\LikeLion\LikeLion\testGame1\testGame1\bin\Release\testGame1.exe
+C:\LikeLion\LikeLion\testGame1\testGame1\bin\Release\testGame1.pdb
+C:\LikeLion\LikeLion\testGame1\testGame1\obj\Release\testGame1.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\testGame1\testGame1\obj\Release\testGame1.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\testGame1\testGame1\obj\Release\testGame1.exe
+C:\LikeLion\LikeLion\testGame1\testGame1\obj\Release\testGame1.pdb
