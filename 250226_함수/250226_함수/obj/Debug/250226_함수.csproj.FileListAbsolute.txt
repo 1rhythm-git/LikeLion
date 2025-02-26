@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\250226_함수\250226_함수\bin\Debug\250226_함수.exe.config
+C:\LikeLion\LikeLion\250226_함수\250226_함수\bin\Debug\250226_함수.exe
+C:\LikeLion\LikeLion\250226_함수\250226_함수\bin\Debug\250226_함수.pdb
+C:\LikeLion\LikeLion\250226_함수\250226_함수\obj\Debug\250226_함수.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\250226_함수\250226_함수\obj\Debug\250226_함수.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\250226_함수\250226_함수\obj\Debug\250226_함수.exe
+C:\LikeLion\LikeLion\250226_함수\250226_함수\obj\Debug\250226_함수.pdb
