@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\bin\Debug\인벤토리 구조체.exe.config
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\bin\Debug\인벤토리 구조체.exe
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\bin\Debug\인벤토리 구조체.pdb
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\obj\Debug\인벤토리 구조체.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\obj\Debug\인벤토리 구조체.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\obj\Debug\인벤토리 구조체.exe
+C:\LikeLion\LikeLion\인벤토리 구조체\인벤토리 구조체\obj\Debug\인벤토리 구조체.pdb
