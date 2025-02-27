@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\bin\Debug\계산기 만들기.exe.config
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\bin\Debug\계산기 만들기.exe
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\bin\Debug\계산기 만들기.pdb
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\obj\Debug\계산기 만들기.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\obj\Debug\계산기 만들기.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\obj\Debug\계산기 만들기.exe
+C:\LikeLion\LikeLion\계산기 만들기\계산기 만들기\obj\Debug\계산기 만들기.pdb
