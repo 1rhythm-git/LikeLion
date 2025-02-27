@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\obj\Debug\250227_inventory.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\obj\Debug\250227_inventory.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\bin\Debug\250227_inventory.exe.config
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\bin\Debug\250227_inventory.exe
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\bin\Debug\250227_inventory.pdb
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\obj\Debug\250227_inventory.exe
+C:\LikeLion\LikeLion\250227_inventory\250227_inventory\obj\Debug\250227_inventory.pdb
