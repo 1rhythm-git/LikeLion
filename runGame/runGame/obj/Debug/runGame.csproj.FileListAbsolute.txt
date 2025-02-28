@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\runGame\runGame\bin\Debug\runGame.exe.config
+C:\LikeLion\LikeLion\runGame\runGame\bin\Debug\runGame.exe
+C:\LikeLion\LikeLion\runGame\runGame\bin\Debug\runGame.pdb
+C:\LikeLion\LikeLion\runGame\runGame\obj\Debug\runGame.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\runGame\runGame\obj\Debug\runGame.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\runGame\runGame\obj\Debug\runGame.exe
+C:\LikeLion\LikeLion\runGame\runGame\obj\Debug\runGame.pdb
