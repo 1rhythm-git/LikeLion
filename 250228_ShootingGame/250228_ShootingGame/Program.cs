@@ -435,7 +435,7 @@ namespace _250228_ShootingGame
 
         public void EnemyDraw()//적그리기
         {
-            string enemy = "<-0->"; //문자열로 표현
+            string enemy = "( 👾 )"; //문자열로 표현
             Console.SetCursorPosition(enemyX, enemyY); //좌표설정
             Console.Write(enemy);//출력
         }
@@ -468,7 +468,7 @@ namespace _250228_ShootingGame
         public void ItemDraw()
         {
             Console.SetCursorPosition(itemX, itemY);
-            ItemSprite = "Item★";
+            ItemSprite = "💊";
             Console.Write(ItemSprite);
         }
 
@@ -503,6 +503,7 @@ namespace _250228_ShootingGame
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.CursorVisible = false;
 
