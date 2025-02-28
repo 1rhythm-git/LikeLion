@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\bin\Debug\sootingGame_test.exe.config
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\bin\Debug\sootingGame_test.exe
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\bin\Debug\sootingGame_test.pdb
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\obj\Debug\sootingGame_test.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\obj\Debug\sootingGame_test.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\obj\Debug\sootingGame_test.exe
+C:\LikeLion\LikeLion\sootingGame_test\sootingGame_test\obj\Debug\sootingGame_test.pdb
