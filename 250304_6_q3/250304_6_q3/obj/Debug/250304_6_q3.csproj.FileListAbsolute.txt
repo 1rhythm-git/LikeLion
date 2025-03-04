@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\bin\Debug\250304_6_q3.exe.config
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\bin\Debug\250304_6_q3.exe
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\bin\Debug\250304_6_q3.pdb
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\obj\Debug\250304_6_q3.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\obj\Debug\250304_6_q3.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\obj\Debug\250304_6_q3.exe
+C:\LikeLion\LikeLion\250304_6_q3\250304_6_q3\obj\Debug\250304_6_q3.pdb
