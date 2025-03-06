@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\250306_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319EA30B-E071-4633-838F-FEF2F081A120}|250306_9\\250306_9.csproj|c:\\likelion\\likelion\\250306_9\\250306_9\\gameclharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EA30B-E071-4633-838F-FEF2F081A120}|250306_9\\250306_9.csproj|solutionrelative:250306_9\\gameclharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319EA30B-E071-4633-838F-FEF2F081A120}|250306_9\\250306_9.csproj|c:\\likelion\\likelion\\250306_9\\250306_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319EA30B-E071-4633-838F-FEF2F081A120}|250306_9\\250306_9.csproj|solutionrelative:250306_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameClharacter.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_9\\250306_9\\GameClharacter.cs",
+              "RelativeDocumentMoniker": "250306_9\\GameClharacter.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\250306_9\\250306_9\\GameClharacter.cs*",
+              "RelativeToolTip": "250306_9\\GameClharacter.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:30.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_9\\250306_9\\Program.cs",
+              "RelativeDocumentMoniker": "250306_9\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\250306_9\\250306_9\\Program.cs*",
+              "RelativeToolTip": "250306_9\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:17:07.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
