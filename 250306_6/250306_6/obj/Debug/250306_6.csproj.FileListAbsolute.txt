@@ -1,0 +1,2 @@
+C:\LikeLion\LikeLion\250306_6\250306_6\obj\Debug\250306_6.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\250306_6\250306_6\obj\Debug\250306_6.csproj.CoreCompileInputs.cache
