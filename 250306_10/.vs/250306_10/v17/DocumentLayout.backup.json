@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|solutionrelative:250306_10\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77D07459-F712-471D-A6AD-C91844AC4C04}|250306_10\\250306_10.csproj|c:\\likelion\\likelion\\250306_10\\250306_10\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Monster.cs",
               "RelativeDocumentMoniker": "250306_10\\Monster.cs",
@@ -59,16 +59,16 @@
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Field.cs",
               "RelativeDocumentMoniker": "250306_10\\Field.cs",
-              "ToolTip": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Field.cs*",
-              "RelativeToolTip": "250306_10\\Field.cs*",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Field.cs",
+              "RelativeToolTip": "250306_10\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T05:03:09.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainGame.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\MainGame.cs",
               "RelativeDocumentMoniker": "250306_10\\MainGame.cs",
@@ -81,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Player.cs",
               "RelativeDocumentMoniker": "250306_10\\Player.cs",
               "ToolTip": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Player.cs",
               "RelativeToolTip": "250306_10\\Player.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T04:13:00.09Z",
               "EditorCaption": ""
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LikeLion\\LikeLion\\250306_10\\250306_10\\Program.cs",
               "RelativeDocumentMoniker": "250306_10\\Program.cs",
