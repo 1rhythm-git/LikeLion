@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _250307_4
 {
-    class Ball
+    public class Ball
     {
         BALLDATA m_tBall = new BALLDATA();
 
@@ -19,6 +19,10 @@ namespace _250307_4
             { -1, -1,  1,  0,  5,-1 }
         };
 
+        Bar m_pBar;
+
+        //Bar클래스 가져오기
+        public void SetBar(Bar bar) { m_pBar = bar; }
 
 
 
@@ -103,7 +107,36 @@ namespace _250307_4
                 m_tBall.nDirect = g_WallCollision[3, m_tBall.nDirect];
                 return 1;
             }
+            //Bar충돌처리
+            if (x >= m_pBar.m_tBar.nX[0] && x <= m_pBar.m_tBar.nX[2] + 1 &&
+                y == (m_pBar.m_tBar.nY)) //바 위 충돌
+            {
+                if (m_tBall.nDirect == 1)
+                    m_tBall.nDirect = 2;
+                else if (m_tBall.nDirect == 2)
+                    m_tBall.nDirect = 1;
+                else if (m_tBall.nDirect == 5)
+                    m_tBall.nDirect = 4;
+                else if (m_tBall.nDirect == 4)
+                    m_tBall.nDirect = 5;
 
+                return 1; //방향이 바뀐다.
+            }
+
+            if (x >= m_pBar.m_tBar.nX[0] && x <= m_pBar.m_tBar.nX[2] + 1 &&
+              y == (m_pBar.m_tBar.nY + 1)) //바 아래 충돌
+            {
+                if (m_tBall.nDirect == 1)
+                    m_tBall.nDirect = 2;
+                else if (m_tBall.nDirect == 2)
+                    m_tBall.nDirect = 1;
+                else if (m_tBall.nDirect == 5)
+                    m_tBall.nDirect = 4;
+                else if (m_tBall.nDirect == 4)
+                    m_tBall.nDirect = 5;
+
+                return 1; //방향이 바뀐다.
+            }
 
             return 0;
         }
@@ -121,6 +154,8 @@ namespace _250307_4
         {
             m_tBall.nReady = 0; //공안움직임1, 움직임0
             m_tBall.nDirect = 1;
+            m_tBall.nX = 30;
+            m_tBall.nY = 10;
 
             //커서 안보이게 하기
             Console.CursorVisible = false;
