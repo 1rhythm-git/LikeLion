@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _250307_4
+{
+    class GameManager
+    {
+        Ball m_pBall = null;
+        
+        public void Intitialize()
+        {
+            if(m_pBall == null)
+            {
+                m_pBall = new Ball();
+                m_pBall.Initialize();
+            }
+        }
+        public void Progress()
+        {
+            m_pBall.Progress();
+        }
+
+        public void Render()
+        {
+            Console.Clear();
+            m_pBall.Render();
+        }
+        public void Release()
+        {
+            m_pBall.Release();
+        }
+
+
+
+    }
+}
