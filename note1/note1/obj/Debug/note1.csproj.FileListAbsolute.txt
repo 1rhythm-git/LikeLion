@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\note1\note1\bin\Debug\note1.exe.config
+C:\LikeLion\LikeLion\note1\note1\bin\Debug\note1.exe
+C:\LikeLion\LikeLion\note1\note1\bin\Debug\note1.pdb
+C:\LikeLion\LikeLion\note1\note1\obj\Debug\note1.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\note1\note1\obj\Debug\note1.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\note1\note1\obj\Debug\note1.exe
+C:\LikeLion\LikeLion\note1\note1\obj\Debug\note1.pdb
